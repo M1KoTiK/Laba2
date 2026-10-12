@@ -1,0 +1,3 @@
+[submodule "libs/ConsoleApp"]
+	path = libs/ConsoleApp
+	url = https://github.com/M1KoTiK/ConsoleApp.git
